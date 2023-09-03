@@ -211,9 +211,11 @@ while correct :
                     print(' Learn new things everyday. Enjoy each day to the fullest and make memories for life. Have a great day. ')
                     print(' ')
                     print(' ')
-                    ch=input('Do you wish to continue: ')
-                    if ch == 'NnnoNoNO':
+                    ch=input('Do you wish to continue(y/n): ')
+                    if ch == 'n':
                         break
+                    else:
+                        continue   
 
 
 
