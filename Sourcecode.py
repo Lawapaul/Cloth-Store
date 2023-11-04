@@ -216,8 +216,9 @@ while correct :
                         break
                     else:
                         continue   
-                
-                break
+
+            print("Thankyou! Have a great day ahead ^_^")
+            break
 
 
 
